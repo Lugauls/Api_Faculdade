@@ -1,0 +1,7 @@
+O trabalho é sobre uma Api de jogos e produtoras, ambas tem seu CRUD e suas rotas.
+
+A tabela de jogos é composta por : ID, nome e genero.
+
+A tabela de produra é composta por : ID, nome e sede
+
+É uma Api simples e de fácil uso
